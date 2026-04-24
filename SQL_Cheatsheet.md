@@ -1,4 +1,4 @@
-*Cheatsheet mantido por [Guilherme Gamarra]. Contribuições são bem-vindas!* 🚀
+*Cheatsheet mantido por [Guilherme Gamarra]. Contribuições são bem-vindas!*
 
 # 📘 SQL Cheatsheet
 
