@@ -1,3 +1,5 @@
+*Cheatsheet mantido por [Guilherme Gamarra]. Contribuições são bem-vindas!* 🚀
+
 # 📘 SQL Cheatsheet
 
 > Referência rápida dos principais comandos e conceitos de SQL.
@@ -259,4 +261,3 @@ SELECT * FROM Alunos_D;
 
 ---
 
-*Cheatsheet mantido por [Guilherme Gamarra]. Contribuições são bem-vindas!* 🚀
