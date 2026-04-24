@@ -256,8 +256,6 @@ SELECT * FROM Alunos_D;
 ```
 
 > 💡 Cada bloco `WITH nome AS (...)` cria uma tabela temporária que só existe durante aquela consulta. Você pode encadear quantas CTEs precisar, referenciando a anterior na próxima.
->
-> ⚠️ Corrigi `REPLACE(CR_TEXTO as INTEGER)` → `CAST(CR_TEXTO AS INTEGER)` (o `REPLACE` não converte tipo — quem faz isso é o `CAST`).
 
 ---
 
