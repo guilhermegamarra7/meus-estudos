@@ -261,4 +261,4 @@ SELECT * FROM Alunos_D;
 
 ---
 
-*Cheatsheet mantido por [seu nome]. Contribuições são bem-vindas!* 🚀
+*Cheatsheet mantido por [Guilherme Gamarra]. Contribuições são bem-vindas!* 🚀
